@@ -42,9 +42,9 @@ I build clean and responsive web applications using modern frontend technologies
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: YOUR_EMAIL@gmail.com  
+- GitHub: https://github.com/tsegayeberhe 
+- LinkedIn: www.linkedin.com/in/tsegaye-berhe-536164355 
+- Email: tsegayeberhe117@gmail.com 
 
 ---
 
